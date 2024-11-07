@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>contact-us</title>
+    <link rel="stylesheet" href="styleContact.css">
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <div class="navigation">
+                <ul class="items">
+                    <li><div class="logo">
+                        <img src="Screenshot_2024-10-30_165333-removebg.png" alt="logo">
+                    </div></li>
+                    <li>Home</li>
+                    <li>Calorie Calculator</li>
+                    <li>Daily Tracker</li>
+                    <li>About us</li>
+                    <li>Contact us</li>
+                </ul>
+            </div>
+        </nav>
+        <div class="mid">
+            CONTACT US
+        </div>
+
+    </div>
+</body>
+</html>
